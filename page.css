@@ -1,0 +1,34 @@
+body{
+    color: blue;
+    background-color: red;
+}
+#video-title{
+    color: purple;
+}
+.lnXdpd{
+    transition: 1s;
+    transform: scale(0.5);
+}
+.o3j99:hover .lnXdpd{
+    transition: 1s;
+
+    transform: scale(3);
+}
+.style-scope{
+    /* color: red; */
+}
+.ytd-guide-entry-renderer{
+    /* color: yellow; */
+}
+.ytd-item-section-renderer{
+    /* background-color: red; */
+}
+
+ytd-channel-featured-content-renderer {
+    /* background-color: red; */
+    /* opacity: 0; */
+    /* visibility: none; */
+    /* display: none; */
+}
+
+/* https://i.ytimg.com/vi/Yl0Jt94V9Tw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDVPs7GpQi9NECfHFxfBAdrljM16Q */

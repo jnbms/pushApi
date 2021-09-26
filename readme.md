@@ -1,0 +1,1 @@
+chrome extention app + cheerio + alert(FCM or ...) + yutube api = Push app. 
